@@ -1,0 +1,4 @@
+C:\Test\Test\FP.Enterprise.Collections\bin\Debug\FP.Enterprise.Collections.dll
+C:\Test\Test\FP.Enterprise.Collections\bin\Debug\FP.Enterprise.Collections.pdb
+C:\Test\Test\FP.Enterprise.Collections\obj\Debug\FP.Enterprise.Collections.dll
+C:\Test\Test\FP.Enterprise.Collections\obj\Debug\FP.Enterprise.Collections.pdb
